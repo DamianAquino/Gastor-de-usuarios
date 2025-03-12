@@ -1,10 +1,10 @@
 import Crud
 
 host="127.0.0.1"
-user = ""
-passwd = ""
-db = ""
-tabla = ""
+user = "user"
+passwd = "passwd"
+db = "db"
+tabla = "tabla"
 
 
 if __name__ == '__main__':
